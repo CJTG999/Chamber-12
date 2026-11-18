@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Chamber Twelve",
+      "hasCanvas": false,
+      "bodyTextLen": 415,
+      "bodyTextHash": "854403d559dd33d2b459a1279ed84e31cf00246c231808f9b8f4b5e973139681",
+      "bodyTextPrefix": "OFFLINE · ONE GUN · NO ACCOUNT CHAMBER TWELVE A shotgun on the f",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Chamber Twelve",
+      "hasCanvas": false,
+      "bodyTextLen": 415,
+      "bodyTextHash": "854403d559dd33d2b459a1279ed84e31cf00246c231808f9b8f4b5e973139681",
+      "bodyTextPrefix": "OFFLINE · ONE GUN · NO ACCOUNT CHAMBER TWELVE A shotgun on the f",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
